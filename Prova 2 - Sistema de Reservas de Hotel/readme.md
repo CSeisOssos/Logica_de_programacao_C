@@ -59,3 +59,7 @@ Essa função permite bloquear um quarto, tornando-o indisponível para aluguel 
 
 - **desbloquearQuarto** 
 Essa função desbloqueia um quarto, tornando-o disponível novamente para aluguel. É a única maneira de tornar um quarto bloqueado utilizável novamente.
+
+## **Pessoas Envolvidas:**<a name="pessoas"></a>
+- [Gabriel Rocha](https://github.com/CSeisOssos)
+- [Maria Eduarda](https://github.com/MariaXubilu)
